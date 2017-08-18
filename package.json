@@ -1,0 +1,22 @@
+{
+  "name": "vian",
+  "version": "1.0.0",
+  "description": "Web page screenshot tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syaning/vian.git"
+  },
+  "author": "Alex Sun (syaningv@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syaning/vian/issues"
+  },
+  "homepage": "https://github.com/syaning/vian#readme",
+  "dependencies": {
+    "puppeteer": "^0.9.0"
+  }
+}
