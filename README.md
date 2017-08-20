@@ -1,2 +1,3 @@
 # vian
-Web page screenshot tool.
+
+Web page screenshot tool. Powered by [puppeteer](https://github.com/GoogleChrome/puppeteer).

@@ -2,9 +2,8 @@
   "name": "vian",
   "version": "1.0.0",
   "description": "Web page screenshot tool.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "vian": "./vian.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +16,8 @@
   },
   "homepage": "https://github.com/syaning/vian#readme",
   "dependencies": {
+    "chalk": "^2.1.0",
+    "commander": "^2.11.0",
     "puppeteer": "^0.9.0"
   }
 }
