@@ -1,5 +1,9 @@
 # vian
 
+[![node](https://img.shields.io/node/v/vian.svg)](https://nodejs.org/en/)
+[![npm](https://img.shields.io/npm/v/vian.svg)](https://www.npmjs.com/package/vian)
+![license](https://img.shields.io/github/license/syaning/vian.svg)
+
 Web page screenshot tool. Powered by [puppeteer](https://github.com/GoogleChrome/puppeteer).
 
 ### Install
