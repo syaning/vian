@@ -53,7 +53,7 @@ program
   })
 
 program.on('--help', function() {
-  const examples = `
+  const examples = `\n
   Examples:
 
     $ vian https://github.com
